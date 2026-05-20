@@ -1,8 +1,8 @@
-#Mi biblioteca de Tópicos de Programación
+ #Mi biblioteca de Tópicos de Programación
 
 Biblioteca personal desarrollada en lenguaje C para practicar y reutilizar funciones de la materia Tópicos de Programación.
 
-##Funcionalidades
+## Funcionalidades
 - Manejo de archivos
 - Funciones reutilizables
 - Arrays y matrices
@@ -14,7 +14,7 @@ Biblioteca personal desarrollada en lenguaje C para practicar y reutilizar funci
 - Code::Blocks
 - Git y GitHub
 
-##Objetivo
+## Objetivo
 Centralizar funciones útiles desarrolladas durante la cursada para reutilizarlas en ejercicios y trabajos prácticos.
 
 
