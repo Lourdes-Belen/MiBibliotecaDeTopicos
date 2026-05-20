@@ -1,0 +1,5 @@
+1;Mouse;1500.50
+2;Teclado;2500.00
+3;Monitor;55000.99
+4;Pendrive;3000.75
+5;Auriculares;7200.00
